@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178738777097",
+    "project_id": "sleepapnea-56641",
+    "storage_bucket": "sleepapnea-56641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178738777097:android:1b2f243408c26a91d43cd8",
+        "android_client_info": {
+          "package_name": "com.example.uykuapnesitakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178738777097-vjtct81t7hqd8dfl6lhlel8qdjch4ct0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ssm-3O2MlLM1mPKOZVTzC3Dk_yUq1k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178738777097-vjtct81t7hqd8dfl6lhlel8qdjch4ct0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
